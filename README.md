@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=48&duration=2500&pause=600&color=4B0082&center=true&vCenter=true&width=1000&height=100&lines=Hello+👋+I'm+Anwesha+Santra" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=48&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello+👋+I'm+Anwesha+Santra" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2000&pause=1000&color=800080&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile" />
 </h3>
 
 <p align="center">
