@@ -20,16 +20,24 @@ I am passionate about Artificial Intelligence, Machine Learning, and Data Scienc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aiml-engr-anwesha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aiml.engr.anweshasantra@gmail.com) 
 
-
 ---
 
 ## 💻 Tech Stack:
 
-### 👩💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 ### 🎨 Design Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+
+
+---
+
+## 🚀 Projects 
+
+| Project Name | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **QuizSpark** | Interactive quiz platform with dynamic questions and score tracking. | HTML, CSS, JS | [🔗 Live Demo](https://aiwithanwesha.github.io/Anwesha-QuizSpark/) |
 
 
 ---
