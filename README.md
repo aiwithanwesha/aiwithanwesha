@@ -38,6 +38,7 @@ I am passionate about Artificial Intelligence, Machine Learning, and Data Scienc
 | Project Name | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
 | **QuizSpark** | Interactive quiz platform with dynamic questions and score tracking. | HTML, CSS, JS | [🔗 Live Demo](https://aiwithanwesha.github.io/Anwesha-QuizSpark/) |
+| **Numbrick** | Modern multi-tool web application featuring standard & scientific calculators, unit converters, currency, BMI, and age calculators. | HTML, CSS, JS | [🔗 Live Demo](https://aiwithanwesha.github.io/Numbrick-by-Anwesha/) |
 
 
 ---
