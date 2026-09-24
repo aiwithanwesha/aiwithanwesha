@@ -40,7 +40,7 @@ I am passionate about Artificial Intelligence, Machine Learning, and Data Scienc
 | **QuizSpark** | Interactive quiz platform with dynamic questions and score tracking. | HTML, CSS, JS | [🔗 Live Demo](https://aiwithanwesha.github.io/Anwesha-QuizSpark/) |
 | **Numbrick** | Modern multi-tool web application featuring standard & scientific calculators, unit converters, currency, BMI, and age calculators. | HTML, CSS, JS | [🔗 Live Demo](https://aiwithanwesha.github.io/Numbrick-by-Anwesha/) |
 | Matrix Cloud Rain | Creative front-end animation featuring a neon cloud and Matrix-style digital rain. | HTML, CSS, JS | [🔗 Live Demo](https://aiwithanwesha.github.io/matrix-cloud-rain/) |
-| Creative Bulb Toggle | Interactive hanging bulb with pull-cord toggle and glowing light effect. | HTML, CSS, JS | [🔗 Live Demo]() |
+| Creative Bulb Toggle | Interactive hanging bulb with pull-cord toggle and glowing light effect. | HTML, CSS, JS | [🔗 Live Demo](https://aiwithanwesha.github.io/creative-bulb-toggle/) |
 
 ---
 
